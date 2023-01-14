@@ -1,4 +1,4 @@
-# "制御のパラドックス" (Seigyo no paradox) meaning "The Control Paradox"
+# "制御のパラドックス" (Seigyo no paradox) "The Control Paradox"
 
 Anime stories written by ChatGPT AI
 
