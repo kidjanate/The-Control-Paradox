@@ -5,20 +5,22 @@ Anime stories written by ChatGPT AI
 ## Stort story
 In a world where everyone has special powers, the protagonist Kai, a high school student, has the ability to destroy the world. He struggles to control his powers and is aided by his friends Shiro and Mio, who have super speed and telekinesis/energy manipulation abilities respectively. Together they fight monsters threatening their city while trying to balance their daily lives. After many battles, they ultimately succeed in defeating the main villain and saving the city. They vow to continue using their powers for good and to be there for the next generation of heroes.
 
+[Characters](/Characters.md)
+
 ## Episodes
-* [Episode 1: "The Power Within"]()
-* [Episode 2: "The Monster in the City"]()
-* [Episode 3: "The Control Paradox"]()
-* [Episode 4: "The Control Imperative"]()
-* [Episode 5: "The Control Conundrum"]()
-* [Episode 6: "The Power of Friendship"]()
-* [Episode 7: "The Ultimate Challenge"]()
-* [Episode 8: "The School of Heroes"]()
-* [Episode 9: "The Secret Origin"]()
-* [Episode 10: "The Ultimate Threat"]()
-* [Episode 11: "The Aftermath"]()
-* [Episode 12: "The Future"]()
-* [OVA Episode: "Life After the Battle"]()
+* [Episode 1: "The Power Within"](/Episodes/1.md)
+* [Episode 2: "The Monster in the City"](/Episodes/2.md)
+* [Episode 3: "The Control Paradox"](/Episodes/3.md)
+* [Episode 4: "The Control Imperative"](/Episodes/4.md)
+* [Episode 5: "The Control Conundrum"](/Episodes/5.md)
+* [Episode 6: "The Power of Friendship"](/Episodes/6.md)
+* [Episode 7: "The Ultimate Challenge"](/Episodes/7.md)
+* [Episode 8: "The School of Heroes"](/Episodes/8.md)
+* [Episode 9: "The Secret Origin"](/Episodes/9.md)
+* [Episode 10: "The Ultimate Threat"](/Episodes/10.md)
+* [Episode 11: "The Aftermath"](/Episodes/11.md)
+* [Episode 12: "The Future"](/Episodes/12.md)
+* [OVA Episode: "Life After the Battle"](/Episodes/OVA.md)
 
 ## Era
 The era of this story is not specified, but it appears to take place in a modern or near-future setting. The story features advanced technology such as smartphones, and the city where the trio is based is filled with skyscrapers and other modern structures. The existence of powerful villains and monsters also implies that the world is not entirely peaceful.
